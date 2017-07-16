@@ -1,0 +1,23 @@
+body {
+    background-color: darkblue;
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 600;
+    display: inline;
+}
+
+p {
+    font-size: 45px;
+}
+
+.title {
+    font-family: 'Passion One', cursive;
+    color: white;
+    text-decoration: underline;
+}
+
+.wrapper {
+    border: 3px dashed red;
+    width: 500px;
+}
